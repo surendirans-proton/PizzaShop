@@ -1,0 +1,39 @@
+[
+  {
+    "customerName": "Captain America",
+    "status": 0,
+    "items": [
+      {
+        "itemName": "Pizza",
+        "price": 10.15
+      }
+    ],
+    "address": "Brooklyn"
+  },
+  {
+    "customerName": "Natasha Romanoff",
+    "status": 0,
+    "items": [
+      {
+        "itemName": "Burger",
+        "price": 15
+      },
+      {
+        "itemName": "Corn Chips",
+        "price": 22
+      }
+    ],
+    "address": "Russia"
+  },
+  {
+    "customerName": "Bucky Barnes",
+    "status": 0,
+    "items": [
+      {
+        "itemName": "Dosa",
+        "price": 15
+      }
+    ],
+    "address": "Russia"
+  }
+]
